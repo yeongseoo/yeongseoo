@@ -1,58 +1,89 @@
-<h1 align="center">Hi, I'm Yeongseo 👋</h1>
-<h3 align="center">Student Developer • Web & App Builder</h3>
+<!-- 헤더 -->
+<h1 align="center">⚡ YEONGSEO</h1>
+<p align="center">Fullstack Developer · Builder · Young Entrepreneur</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Building+Web+Projects;Learning+by+Making;Always+Growing" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 High school student interested in software and development
-- 🌐 Building web and app projects
-- ⚛️ Mainly using React, TypeScript, Firebase, and Supabase
-- 📚 Prefer learning by making real projects
-- 🚀 Interested in UI/UX, deployment, and practical services
+## 👋 About Me
+
+> 안녕하세요, **서비스를 직접 만들고 성장시키는 개발자 Yeongseo**입니다.  
+> 아이디어를 실제 서비스로 구현하는 과정과, 문제 해결 중심의 개발을 지향합니다.
+
+- 🎓 소프트웨어 전공 고등학생  
+- 💻 **Fullstack Developer (Frontend + Backend)**  
+- 🚀 서비스 기획 → 개발 → 배포까지 직접 수행  
+- 🧠 실전 중심 개발 & 빠른 실행력  
+- 📈 **창업과 제품 개발에 관심 있는 개발자**
 
 ---
 
-## ⚒️ Tech Stack
+## 🧠 Skills
+
+### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,supabase,git,github,vscode" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
+</p>
+
+### ⚙️ Backend / Database
+<p>
+  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase"/>
+</p>
+
+### 🛠 Tools & Environment
+<p>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
 
-## 📌 Current Interests
-- Web development
-- App development
-- UI/UX design
-- Real-world project building
-- Portfolio & service deployment
+## 🏆 Achievements
+
+- 🥉 2024 데이터 크리에이터 캠프 **장려상**
+- 🎯 2024 상업경진대회 홍보마케팅 크리에이터 **참가**
+- 🥉 2025 데이터 크리에이터 캠프 **장려상**
+- 🏅 2025 경기도 창업가 발굴 프로그램 **우수상**
+- 🥇 2025 경기 콘텐츠 창의학교 경진대회 **최우수상**
+- 🚀 2026 JA Korea 창업 프로그램 **참가**
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+- 📋 **To-Do List App**  
+  → React + Firebase 기반 일정 관리 서비스  
+
+- ⌨️ **Typing Test (뒤죽박죽 타자)**  
+  → 랜덤 키보드 기반 타자 훈련 서비스  
+
+- 🧩 **Club Management Platform (PWA)**  
+  → 동아리 운영 및 지원자 관리 웹 서비스  
+
+---
+
+## 🔥 Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeongseoo&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongseoo&layout=compact" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeongseoo&theme=tokyo-night" />
 </p>
-
----
-
-## 🛠 Projects
-- 📋 To-Do List App
-- ⌨️ Typing Test Project
-- 🌍 Web Projects with modern frontend stack
-- 📱 Practical services and personal experiments
-
 ---
 
 ## 📫 Contact
-- Email: wers2008wers@gmail.com
+
+- 📧 **me@yeongseo.kr**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeongseoo&label=Profile+Views" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
 </p>
