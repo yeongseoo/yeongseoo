@@ -89,6 +89,7 @@
 ## 📫 Contact
 
 - 📧 **me@yeongseo.kr**
+- 📧 **wonyeongseo@fluxwear.co.kr** (문의 : 플럭스웨어)
 
 ---
 
